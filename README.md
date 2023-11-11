@@ -76,17 +76,18 @@
 
 
 
-  🎥Demo 🎥
+  🎥Demo 🎥 Client Web
 
 
 [Screen Recording - Made with FlexClip (1).webm](https://github.com/asmaElouali/ClientWeb-ClientJava/assets/127212498/9d8267d1-4691-460b-99a0-35edd47e94c9)
 
 
 
+ 🎥Demo 🎥 Client Java
 
 
 
-
+[Screen Recording - Made with FlexClip (2).webm](https://github.com/asmaElouali/ClientWeb-ClientJava/assets/127212498/a46ef4db-1839-44ea-9462-7f01d0e9c703)
 
 
 
