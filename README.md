@@ -46,7 +46,7 @@
 
 🛠️L'architecture de projet 🛠️
 
-                             ![Architecture](https://github.com/asmaElouali/ClientWeb-ClientJava/assets/127212498/e94cf1a8-9299-4c1a-841e-af1a61978e35)
+   ![Architecture](https://github.com/asmaElouali/ClientWeb-ClientJava/assets/127212498/e94cf1a8-9299-4c1a-841e-af1a61978e35)
 
 
 
